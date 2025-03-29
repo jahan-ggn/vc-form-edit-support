@@ -1,0 +1,5 @@
+en:
+  theme_metadata:
+    description: Enables form templates to function seamlessly in topic edit mode.
+    settings:
+      example_setting: A description of a setting.
